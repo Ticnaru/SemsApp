@@ -26,6 +26,7 @@ import java.util.Arrays;
  * 셈스앱의 진입액티비티이다.
  */
 //Git hub push Test
+//Git hub push Test2
 public class MainActivity extends Activity {
 	public static final int REQUEST_APP_SETTING = 1;
 
