@@ -25,6 +25,7 @@ import java.util.Arrays;
  * Created by Administrator on 14. 3. 20.
  * 셈스앱의 진입액티비티이다.
  */
+//Git hub push Test
 public class MainActivity extends Activity {
 	public static final int REQUEST_APP_SETTING = 1;
 
